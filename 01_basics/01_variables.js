@@ -14,7 +14,7 @@ console.log(accountEmail);
 console.log(accountPassword);
 console.log(accountCity);
 
-console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
 /*
 var is not to be used because of scope issues.
 */
